@@ -1,8 +1,4 @@
-# def harvest_data():
-#     import json
-#     with open("data/fake_events.json") as f:
-#         return json.load(f)
-# agents/data_harvester.py
+
 def harvest_data():
     return [
         {
